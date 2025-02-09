@@ -181,4 +181,3 @@ mvn clean install -U
 
 ## License
 This project is licensed under the MIT License
-```
